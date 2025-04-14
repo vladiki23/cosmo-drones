@@ -1,7 +1,7 @@
 'use client'
 
 import Image from 'next/image'
-import { Mail, Phone } from 'lucide-react'
+import { Mail, Phone, Instagram } from 'lucide-react'
 
 export default function LicenseSection() {
     const licenseLogos = [
@@ -38,17 +38,17 @@ export default function LicenseSection() {
                 ))}
             </div>
 
-
             {/* Контакты */}
             <div
-                className="bg-gray-100 dark:bg-neutral-800 p-6 rounded-xl max-w-sm mx-auto text-sm text-left space-y-4 shadow-sm">
+                className="bg-gray-100 dark:bg-neutral-800 p-6 rounded-xl max-w-sm mx-auto text-sm text-left space-y-4 shadow-sm"
+            >
                 <h3 className="font-semibold text-lg mb-2">Contact Me</h3>
 
                 <a
                     href="https://wa.me/447493912469"
                     className="flex items-center gap-2 text-gray-800 dark:text-gray-200 hover:text-green-600"
                 >
-                    <Phone size={16}/>
+                    <Phone size={16} />
                     +4474 939 12 469
                 </a>
 
@@ -56,11 +56,22 @@ export default function LicenseSection() {
                     href="mailto:pro.dronepilot.uk@gmail.com"
                     className="flex items-center gap-2 text-gray-800 dark:text-gray-200 hover:text-blue-500"
                 >
-                    <Mail size={16}/>
+                    <Mail size={16} />
                     pro.dronepilot.uk@gmail.com
+                </a>
+
+                <a
+                    href="https://www.instagram.com/dronefromlife?igsh=MTd0MncxM3RuOTlnMA%3D%3D&utm_source=qr"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex items-center gap-2 text-gray-800 dark:text-gray-200 hover:text-pink-500"
+                >
+                    <Instagram size={16} />
+                    @dronefromlife
                 </a>
             </div>
         </section>
     )
 }
+
 

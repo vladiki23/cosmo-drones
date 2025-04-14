@@ -20,16 +20,16 @@ export default function Header() {
         <header className="fixed top-4 left-1/2 z-50 w-full max-w-7xl -translate-x-1/2 px-4">
             <div className="relative flex items-center justify-center">
                 {/* Название отдельно — десктоп */}
-                <div className="absolute left-0 hidden md:block font-bold text-sm tracking-widest text-white">
+                <Link href="/" className="absolute left-0 hidden md:block font-bold text-sm tracking-widest">
                     DRONE-PILOT.CO.UK
-                </div>
+                </Link>
 
                 {/* Капсула навигации — центрированная */}
                 <nav className="flex items-center justify-between w-full md:w-auto rounded-full border border-gray-200 bg-white/80 px-6 py-2 shadow-lg backdrop-blur dark:border-gray-700 dark:bg-gray-900/80">
                     {/* Название — только мобилка */}
-                    <div className="block md:hidden font-bold text-sm tracking-widest">
+                    <Link href="/" className="block md:hidden font-bold text-sm tracking-widest">
                         DRONE-PILOT.CO.UK
-                    </div>
+                    </Link>
 
                     {/* Ссылки — только десктоп */}
                     <div className="hidden md:flex items-center gap-4 ml-4">

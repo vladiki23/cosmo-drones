@@ -5,7 +5,7 @@ import { Mail, Instagram, Phone } from 'lucide-react'
 
 export default function AboutPage() {
     return (
-        <div className="max-w-6xl mx-auto px-4 pt-32 pb-16 grid gap-16 md:gap-24 md:grid-cols-2">
+        <div className="max-w-6xl mx-auto px-4 pt-28 pb-16 grid gap-16 md:gap-24 md:grid-cols-2">
             {/* Text */}
             <div className="text-base leading-relaxed space-y-6">
                 <h1 className="text-4xl font-bold text-gray-900 dark:text-white">
@@ -36,23 +36,26 @@ export default function AboutPage() {
             </div>
 
             {/* Image + Contacts */}
-            <div className="flex flex-col items-start">
-                <div className="relative">
+            <div className="flex flex-col items-center md:items-start">
+                <div className="relative w-full max-w-[400px]">
                     <Image
                         src="/images/about-photo.webp"
                         alt="Profile"
                         width={400}
                         height={500}
-                        className="rounded-2xl object-cover"
+                        className="rounded-2xl object-cover w-full h-auto"
                     />
 
-                    {/* Контакты под фото, строго по левому краю */}
-                    <div className="mt-6 w-[400px] text-sm text-gray-700 dark:text-gray-300 space-y-4">
+                    <div className="mt-6 w-full text-sm text-gray-700 dark:text-gray-300 space-y-4">
                         {/* Соцсети */}
                         <div className="space-y-3">
-                            <a href="https://instagram.com/yourprofile"
-                               className="flex items-center gap-2 hover:text-pink-500">
-                                <Instagram size={18}/> Instagram
+                            <a
+                                href="https://www.instagram.com/dronefromlife?igsh=MTd0MncxM3RuOTlnMA%3D%3D&utm_source=qr"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="flex items-center gap-2 hover:text-pink-500"
+                            >
+                                <Instagram size={18}/> @dronefromlife
                             </a>
                         </div>
 
@@ -60,12 +63,13 @@ export default function AboutPage() {
 
                         {/* Почта и WhatsApp */}
                         <div className="space-y-3">
-                            <a href="mailto:your@email.com" className="flex items-center gap-2 hover:text-blue-500">
+                            <a href="mailto:pro.dronepilot.uk@gmail.com"
+                               className="flex items-center gap-2 hover:text-blue-500">
                                 <Mail size={18}/> pro.dronepilot.uk@gmail.com
                             </a>
                             <a href="https://wa.me/447493912469"
                                className="flex items-center gap-2 hover:text-green-500">
-                                <Phone size={18}/>  +4474 939 12 469
+                                <Phone size={18}/> +4474 939 12 469
                             </a>
                         </div>
                     </div>
@@ -74,4 +78,5 @@ export default function AboutPage() {
         </div>
     )
 }
+
 
