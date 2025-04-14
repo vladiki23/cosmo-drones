@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="cc9fdc82-49df-42cf-b018-ed03658b4a56" name="Changes" comment="upp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +30,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -111,6 +113,7 @@
       <workItem from="1744648621651" duration="1465000" />
       <workItem from="1744650109270" duration="601000" />
       <workItem from="1744650727683" duration="1150000" />
+      <workItem from="1744652270377" duration="314000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <option name="closed" value="true" />

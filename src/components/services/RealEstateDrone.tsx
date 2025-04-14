@@ -31,10 +31,10 @@ export default function RealEstateDrone() {
                 <p className="font-medium">Stunning Aerial Photography and Videography</p>
                 <ul className="list-disc pl-5 space-y-2">
                     <li>
-                        <strong>High-Quality Visuals:</strong> Drones provide breathtaking aerial footage and high-resolution images, which can showcase a property from unique angles and perspectives that traditional photography can't match. This is especially beneficial for large estates, commercial properties, or developments with expansive outdoor areas.
+                        <strong>High-Quality Visuals:</strong> Drones provide breathtaking aerial footage and high-resolution images, which can showcase a property from unique angles and perspectives that traditional photography can&apos;t match. This is especially beneficial for large estates, commercial properties, or developments with expansive outdoor areas.
                     </li>
                     <li>
-                        <strong>Visual Appeal:</strong> Aerial shots highlight the property's location, surrounding areas, and landscaping, helping potential buyers see the full context and value of the property. It can also show proximity to landmarks, parks, schools, or key amenities.
+                        <strong>Visual Appeal:</strong> Aerial shots highlight the property&apos;s location, surrounding areas, and landscaping, helping potential buyers see the full context and value of the property. It can also show proximity to landmarks, parks, schools, or key amenities.
                     </li>
                     <li>
                         <strong>Virtual Tours:</strong> Drones can be used to create interactive virtual tours, giving potential buyers or tenants an immersive experience of the property. This can be particularly valuable for remote buyers or those unable to visit the property in person.
