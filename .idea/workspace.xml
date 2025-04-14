@@ -5,48 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc9fdc82-49df-42cf-b018-ed03658b4a56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cosmo-drones.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/app/about/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/app/contact/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/app/drone-services/commercial/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/app/drone-services/filming/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/app/drone-services/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/app/drone-services/real-estate/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/app/drone-services/survey/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/app/editing/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/components/FAQ.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/components/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/components/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/components/LicenseSection.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/components/ThemeToggle.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/components/services/DroneCommercial.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/components/services/DroneFilming.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/components/services/DroneSurvey.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/components/services/RealEstateDrone.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/styles/Home.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cosmo-drones/src/styles/droneService.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eslint.config.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/postcss.config.mjs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vladiki23"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vladiki23/cosmo-drones",
+    "accountId": "423e03aa-d9ce-47c8-b39f-d8e0c933756b"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -68,24 +39,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/vlad/Desktop/visitka/business-card&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;npm.dev.executor&quot;: &quot;Run&quot;,
-    &quot;npm.start.executor&quot;: &quot;Run&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\vlad\\Desktop\\konstantin\\cosmo-drones\\cosmo-drones\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/vlad/Desktop/visitka/business-card",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "npm.start.executor": "Run",
+    "ts.external.directory.path": "C:\\Users\\vlad\\Desktop\\konstantin\\cosmo-drones\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\vlad\Desktop\konstantin\cosmo-drones\cosmo-drones\src\app\drone-services" />
@@ -137,7 +108,7 @@
       <updated>1744545184439</updated>
       <workItem from="1744545185630" duration="8792000" />
       <workItem from="1744634149871" duration="7654000" />
-      <workItem from="1744648621651" duration="426000" />
+      <workItem from="1744648621651" duration="1465000" />
     </task>
     <servers />
   </component>
