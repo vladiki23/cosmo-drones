@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import ThemeToggle from './ThemeToggle'
-import { Menu, X, Video, Film, Clapperboard, Camera, Home as HomeIcon, Wrench, User, Mail } from 'lucide-react'
+import { Menu, X, Clapperboard, Home as HomeIcon, Wrench, User, Mail } from 'lucide-react'
 
 const navLinks = [
     { href: '/', label: 'Home', icon: <HomeIcon size={18} /> },
