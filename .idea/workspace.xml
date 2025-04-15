@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc9fdc82-49df-42cf-b018-ed03658b4a56" name="Changes" comment="upp">
-      <change beforePath="$PROJECT_DIR$/src/components/LicenseSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LicenseSection.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="cc9fdc82-49df-42cf-b018-ed03658b4a56" name="Changes" comment="upp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +121,7 @@
       <workItem from="1744648621651" duration="1465000" />
       <workItem from="1744650109270" duration="601000" />
       <workItem from="1744650727683" duration="1150000" />
-      <workItem from="1744652270377" duration="16016000" />
+      <workItem from="1744652270377" duration="16342000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <option name="closed" value="true" />
@@ -221,7 +219,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744715577794</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="upp">
+      <option name="closed" value="true" />
+      <created>1744716119152</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1744716119153</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

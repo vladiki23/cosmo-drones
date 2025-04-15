@@ -48,7 +48,7 @@ export default function Home() {
             </div>
 
             {/* FAQ секция отдельно под видео */}
-            <section className="max-w-7xl mx-auto px-4 py-16 grid md:grid-cols-3 gap-10">
+            <section className="max-w-7xl mx-auto px-4 grid md:grid-cols-3 gap-10">
 
                 {/* Правая часть — License + Contact */}
                 <div className="space-y-6">
