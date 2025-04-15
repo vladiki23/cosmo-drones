@@ -12,7 +12,7 @@ const logos = [
 
 export default function LicenseSection() {
     return (
-        <section className="py-10 px-4 max-w-4xl mx-auto mt-10">
+        <section className="py-10 px-4 max-w-4xl mx-auto mt-12">
             <div className="flex flex-col gap-4 justify-center">
                 {/* Лицензии */}
                 <div className="w-full md:w-[270px] border border-neutral-700 rounded-xl p-4">
