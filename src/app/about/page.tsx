@@ -19,19 +19,19 @@ export default function AboutPage() {
                 <p>
                     I hold a master’s degree in filmmaking from Goldsmiths, University of London, but my journey as a
                     filmmaker truly began in 2018 when drones revolutionised aerial cinematography. What started as a
-                    fascination quickly grew into a passion, shaping my career...
+                    fascination quickly grew into a passion, shaping my career.
                 </p>
                 <p>
                     As a professional filmmaker, I’ve worked on a wide range of projects, from YouTube content and TV
                     series to producing my own short films in London. My most notable work, Romchyk,
-                    has received critical acclaim...
+                    has received critical acclaim.
                 </p>
                 <p>
                     I’m well-versed in every stage of production, from initial planning to the final polished product...
                 </p>
                 <p>
                     With my expertise in drone operation, editing, and colour grading, I help creators and businesses
-                    elevate their content...
+                    elevate their content.
                 </p>
             </div>
 

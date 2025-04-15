@@ -3,12 +3,12 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import ThemeToggle from './ThemeToggle'
-import { Menu, X, Clapperboard, Home as HomeIcon, Wrench, User, Mail } from 'lucide-react'
+import { Menu, X, Clapperboard, Home as HomeIcon, SquareScissors, User, Mail } from 'lucide-react'
 
 const navLinks = [
     { href: '/', label: 'Home', icon: <HomeIcon size={18} /> },
     { href: '/drone-services', label: 'Drone Services', icon: <Clapperboard size={18} /> },
-    { href: '/editing', label: 'Editing', icon: <Wrench size={18} /> },
+    { href: '/editing', label: 'Editing', icon: <SquareScissors size={18} /> },
     { href: '/about', label: 'About', icon: <User size={18} /> },
     { href: '/contact', label: 'Contact', icon: <Mail size={18} /> },
 ]

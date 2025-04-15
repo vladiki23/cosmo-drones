@@ -3,7 +3,7 @@ import Home from '@/components/Home'
 export const metadata = {
     title: 'Drone Pilot UK – Aerial Filming, Real Estate, and Event Drone Services',
     description:
-        'Offering professional drone services for real estate, events, and film, with stunning aerial visuals and full editing support.',
+        'Offering professional drone services for real estate, events, film productions, and inspections - with stunning aerial visuals and full editing support.',
     keywords: [
         'Drone services UK',
         'aerial filming',
