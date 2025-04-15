@@ -48,15 +48,16 @@ export default function Home() {
             </div>
 
             {/* FAQ секция отдельно под видео */}
-            <section className="max-w-7xl mx-auto px-4 grid md:grid-cols-3 gap-10">
+            <section className="max-w-7xl mx-auto px-4 grid md:grid-cols-3">
+
+                {/* Левая часть — FAQ (занимает 2/3) */}
+                <div className="md:col-span-2 ">
+                    <FAQ/>
+                </div>
 
                 {/* Правая часть — License + Contact */}
-                <div className="space-y-6">
+                <div className="flex flex-col gap-6">
                     <LicenseSection/>
-                </div>
-                {/* Левая часть — FAQ (занимает 2/3) */}
-                <div className="md:col-span-2">
-                    <FAQ/>
                 </div>
 
             </section>

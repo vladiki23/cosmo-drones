@@ -12,10 +12,10 @@ const logos = [
 
 export default function LicenseSection() {
     return (
-        <section className="py-10 px-4 max-w-4xl mx-auto mt-12">
-            <div className="flex flex-col gap-4 justify-center items-center">
+        <section className="px-4 max-w-4xl mx-auto">
+            <div className="flex flex-col gap-4 justify-center items-center mt-0 md:mt-36">
                 {/* Лицензии */}
-                <div className="w-full md:w-[270px] border border-neutral-700 rounded-xl p-4 text-center mx-auto">
+                <div className="w-full md:w-[300px] border border-neutral-700 rounded-xl p-4 text-center mx-auto">
                     <h2 className="font-semibold mb-1 text-sm">Fully Licensed Pilot</h2>
                     <p className="text-xs text-gray-400">
                         Based in London. Licensed in the UK and EU.
@@ -23,12 +23,12 @@ export default function LicenseSection() {
 
                     <div className="grid grid-cols-2 gap-3 sm:gap-4 mt-3 justify-items-center">
                         {logos.map((src, index) => (
-                            <div key={index} className="w-[100px] h-[70px]">
+                            <div key={index} className="w-[90px] h-[50px]">
                                 <Image
                                     src={src}
                                     alt={`License ${index}`}
-                                    width={100}
-                                    height={70}
+                                    width={70}
+                                    height={40}
                                     className="object-contain w-full h-full"
                                 />
                             </div>
@@ -38,7 +38,7 @@ export default function LicenseSection() {
 
                 {/* Контакты */}
                 <div
-                    className="align-items-center w-full md:w-[270px] border border-neutral-700 rounded-xl p-4 flex flex-col align-imtems-center">
+                    className="align-items-center w-full md:w-[300px] border border-neutral-700 rounded-xl p-4 flex flex-col align-imtems-center">
                     <h3 className="text-base font-semibold mb-6">Contact</h3>
 
                     <div className="text-sm space-y-2">

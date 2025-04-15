@@ -69,17 +69,18 @@ export default function FAQ() {
     }
 
     return (
-        <section className="max-w-7xl mx-auto px-4 py-20 grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="md:col-span-1">
-                <h2 className="text-4xl font-bold text-gray-900 dark:text-white">Everything you need to know.</h2>
-            </div>
-            <div className="md:col-span-2 space-y-8">
+        <section className="max-w-2xl mx-auto px-4 py-12">
+            <h2 className="text-3xl font-light text-gray-900 dark:text-white mb-10 leading-snug">
+                <span className="font-bold text-xl">Everything you need to know.</span>
+            </h2>
+
+            <div className="space-y-8">
                 {faqData.map((section, sIndex) => (
                     <div key={sIndex}>
-                        <h3 className="text-sm font-semibold uppercase tracking-wide text-gray-500 dark:text-gray-400 mb-4">
+                        <h3 className="text-xs font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400 mb-3">
                             {section.category}
                         </h3>
-                        <div className="space-y-2">
+                        <div className="space-y-1">
                             {section.questions.map((item, index) => (
                                 <div
                                     key={index}
@@ -87,17 +88,19 @@ export default function FAQ() {
                                 >
                                     <button
                                         onClick={() => toggle(section.category, index)}
-                                        className="w-full flex justify-between items-center py-4 text-left text-gray-900 dark:text-white font-medium"
+                                        className="w-full flex justify-between items-center py-3 text-left text-sm text-gray-900 dark:text-white font-medium"
                                     >
                                         {item.question}
                                         <ChevronDown
-                                            className={`h-5 w-5 transition-transform ${
-                                                openIndex?.[0] === section.category && openIndex?.[1] === index ? 'rotate-180' : ''
+                                            className={`h-4 w-4 transition-transform ${
+                                                openIndex?.[0] === section.category && openIndex?.[1] === index
+                                                    ? 'rotate-180'
+                                                    : ''
                                             }`}
                                         />
                                     </button>
                                     {openIndex?.[0] === section.category && openIndex?.[1] === index && (
-                                        <p className="pb-4 text-sm text-gray-700 dark:text-gray-300">{item.answer}</p>
+                                        <p className="pb-3 text-xs text-gray-700 dark:text-gray-300">{item.answer}</p>
                                     )}
                                 </div>
                             ))}
@@ -106,6 +109,8 @@ export default function FAQ() {
                 ))}
             </div>
         </section>
+
+
     )
 }
 
