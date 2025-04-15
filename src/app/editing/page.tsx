@@ -2,31 +2,31 @@
 
 export default function EditingPage() {
     return (
-        <div className="max-w-6xl mx-auto px-4 py-24 grid md:grid-cols-[0.7fr_1fr] gap-12 items-start">
-
-            {/* Левая колонка — видео */}
-            <div className="space-y-8">
+        <div
+            className="max-w-6xl mx-auto px-4 py-24 flex flex-col-reverse md:grid md:grid-cols-[0.7fr_1fr] gap-12">
+            {/* Левая колонка — видео (внизу на мобилке) */}
+            <div className="space-y-6 flex flex-col">
                 <iframe
                     src="https://player.vimeo.com/video/1070117589"
-                    className="w-full aspect-video rounded-xl"
+                    className="w-full max-w-md aspect-video rounded-xl"
                     allow="autoplay; fullscreen"
                     loading="lazy"
                 />
                 <iframe
                     src="https://player.vimeo.com/video/1070441544"
-                    className="w-full aspect-video rounded-xl"
+                    className="w-full max-w-md aspect-video rounded-xl"
                     allow="autoplay; fullscreen"
                     loading="lazy"
                 />
                 <iframe
                     src="https://player.vimeo.com/video/1070439941"
-                    className="w-full aspect-video rounded-xl"
+                    className="w-full max-w-md aspect-video rounded-xl"
                     allow="autoplay; fullscreen"
                     loading="lazy"
                 />
             </div>
 
-            {/* Правая колонка — текст */}
+            {/* Правая колонка — текст (вверху на мобилке) */}
             <div className="text-base leading-relaxed text-gray-800 dark:text-gray-300 space-y-6">
                 <h1 className="text-4xl font-bold text-gray-900 dark:text-white">
                     Bringing Your Story to Life with Colour, Sound & Emotion
@@ -44,8 +44,7 @@ export default function EditingPage() {
                 <p>
                     Colour grading enhances this by setting the tone—whether it’s a warm, nostalgic glow or a bold,
                     cinematic look, it brings cohesion and depth to every frame. Meanwhile, sound design ties everything
-                    together, refining dialogue, balancing music, and adding the subtle details that make any project
-                    feel truly immersive.
+                    together, refining dialogue, balancing music, и добавляя нюансы, которые делают видео живым.
                 </p>
                 <p>
                     With a sharp eye for detail and a passion for storytelling, I bring footage to life—turning ideas
@@ -70,4 +69,5 @@ export default function EditingPage() {
         </div>
     )
 }
+
 

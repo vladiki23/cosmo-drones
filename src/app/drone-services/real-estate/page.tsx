@@ -1,8 +1,8 @@
 import RealEstateDrone from '@/components/services/RealEstateDrone'
 
 export const metadata = {
-    title: 'Real Estate Drone Photography | Cosmo Drones',
-    description: 'Elevate your listings with stunning drone visuals and immersive virtual tours for real estate marketing.',
+    title: 'Real Estate Drone Photography',
+    description: 'Capture breathtaking aerial images of properties with high-resolution drone photography, perfect for enhancing listings, virtual tours, and promotional materials.',
 }
 
 export default function Page() {

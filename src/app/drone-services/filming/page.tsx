@@ -1,8 +1,8 @@
 import DroneFilming from '@/components/services/DroneFilming'
 
 export const metadata = {
-    title: 'Drone Filming | Cosmo Drones',
-    description: 'Professional drone filming services for filmmakers and creators using cinematic DJI Mavic 3 Pro Cine.',
+    title: 'Drone Filming',
+    description: 'Professional drone filming services offering stunning aerial shots and dynamic footage for films, commercials, documentaries, and creative projects.',
 }
 
 export default function Page() {

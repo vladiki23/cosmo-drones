@@ -6,8 +6,8 @@ import { Mail, Phone, Instagram } from 'lucide-react'
 const logos = [
     '/images/uk-flag.webp',
     '/images/eu-flag.png',
-    '/images/images.webp',
     '/images/easa-logo.jpg',
+    '/images/images.webp',
 ]
 
 export default function LicenseSection() {
