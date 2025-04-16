@@ -41,6 +41,7 @@ export default function DroneServicesPage() {
                             alt={service.title}
                             width={600}
                             height={400}
+                            priority
                             className="w-full h-auto object-cover group-hover:scale-105 transition-transform duration-300"
                         />
                     </div>
