@@ -27,7 +27,7 @@ export default function AboutPage() {
                     has received critical acclaim.
                 </p>
                 <p>
-                    I’m well-versed in every stage of production, from initial planning to the final polished product...
+                    I’m well-versed in every stage of production, from initial planning to the final polished product.
                 </p>
                 <p>
                     With my expertise in drone operation, editing, and colour grading, I help creators and businesses

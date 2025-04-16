@@ -71,7 +71,7 @@ export default function FAQ() {
     return (
         <section className="max-w-2xl mx-auto px-4 py-12">
             <h2 className="text-3xl font-light text-gray-900 dark:text-white mb-10 leading-snug">
-                <span className="font-bold text-xl">Everything you need to know.</span>
+                <span className="font-bold text-xl">Everything you need to know</span>
             </h2>
 
             <div className="space-y-8">
