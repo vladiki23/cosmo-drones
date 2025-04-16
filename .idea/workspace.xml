@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cc9fdc82-49df-42cf-b018-ed03658b4a56" name="Changes" comment="upp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/drone-services/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/drone-services/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +125,7 @@
       <workItem from="1744650109270" duration="601000" />
       <workItem from="1744650727683" duration="1150000" />
       <workItem from="1744652270377" duration="22406000" />
-      <workItem from="1744747505957" duration="5357000" />
+      <workItem from="1744747505957" duration="6728000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <option name="closed" value="true" />
@@ -264,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744793540177</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="upp">
+      <option name="closed" value="true" />
+      <created>1744817515047</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1744817515047</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

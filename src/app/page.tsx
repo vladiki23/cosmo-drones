@@ -1,7 +1,7 @@
 import Home from '@/components/Home'
 
 export const metadata = {
-    title: 'Drone Pilot UK – Aerial Filming, Real Estate, and Event Drone Services',
+    title: 'Drone Pilot UK – Aerial Filming, Inspections, Real Estate & Events',
     description:
         'Offering professional drone services for real estate, events, film productions, and inspections - with stunning aerial visuals and full editing support.',
     keywords: [
@@ -15,7 +15,7 @@ export const metadata = {
         'DJI Mavic filming',
     ],
     openGraph: {
-        title: 'Drone Pilot UK – Aerial Filming, Real Estate, and Event Drone Services',
+        title: 'Drone Pilot UK – Aerial Filming, Inspections, Real Estate & Events',
         description:
             'Offering professional drone services for real estate, events, film productions, and inspections - with stunning aerial visuals and full editing support.',
         url: 'https://www.drone-pilot.co.uk/',
