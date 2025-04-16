@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc9fdc82-49df-42cf-b018-ed03658b4a56" name="Changes" comment="upp">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/commercial-drone.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/commercial-drone.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/drone-filming.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/drone-filming.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/drone-survey.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/drone-survey.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/real-estate.webp" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/real-estate.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/about/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/about/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FAQ.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FAQ.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="cc9fdc82-49df-42cf-b018-ed03658b4a56" name="Changes" comment="upp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +122,7 @@
       <workItem from="1744650109270" duration="601000" />
       <workItem from="1744650727683" duration="1150000" />
       <workItem from="1744652270377" duration="22406000" />
-      <workItem from="1744747505957" duration="2901000" />
+      <workItem from="1744747505957" duration="3468000" />
     </task>
     <task id="LOCAL-00001" summary="upp">
       <option name="closed" value="true" />
@@ -252,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744732774331</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="upp">
+      <option name="closed" value="true" />
+      <created>1744792847380</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1744792847380</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

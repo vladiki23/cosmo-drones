@@ -44,7 +44,8 @@ export default function EditingPage() {
                 <p>
                     Colour grading enhances this by setting the tone—whether it’s a warm, nostalgic glow or a bold,
                     cinematic look, it brings cohesion and depth to every frame. Meanwhile, sound design ties everything
-                    together, refining dialogue, balancing music, и добавляя нюансы, которые делают видео живым.
+                    together, refining dialogue, balancing music, and adding the subtle details
+                    that make any project feel truly immersive.
                 </p>
                 <p>
                     With a sharp eye for detail and a passion for storytelling, I bring footage to life—turning ideas
